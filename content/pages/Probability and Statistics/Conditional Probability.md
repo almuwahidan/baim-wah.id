@@ -1,3 +1,7 @@
+---
+title: Conditional Probability
+---
+
 ## Definition
 Basically this is about [[Probability]] of one event, **IF another event has happened before.**
 
